@@ -2,7 +2,7 @@ package main
 
 import "github.com/gin-gonic/gin"
 
-//test
+//test1
 func main() {
 	r := gin.Default()
 	r.GET("/ping", func(context *gin.Context) {
